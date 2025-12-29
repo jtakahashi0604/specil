@@ -2,6 +2,8 @@
 
 Specil is a minimal and helpful tool for Spec-Driven Development.
 
+https://github.com/user-attachments/assets/f56a15a3-b0b5-4446-8ca6-14c7bb50315a
+
 ## What is Spec-Driven Development?
 
 Spec-Driven Development is a development methodology that focuses on writing specifications before writing code.
