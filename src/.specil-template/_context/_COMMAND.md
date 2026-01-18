@@ -10,7 +10,7 @@ cp       ".specil/_spec-migration/_template/spec.md" ".specil/_spec-migration/$T
 SPEC_FILE=".specil/_spec-migration/$TIMESTAMP/spec.md"
 
 1. read `git diff` on `.specil/_spec/**/*.md`
-2. think about overview, plan and todo
+2. read existing spec and code
 3. trite about overview, plan and todo into SPEC_FILE
 ```
 
