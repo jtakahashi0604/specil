@@ -18,7 +18,6 @@ This is a example product.
 Example
   id:        string
   name:      string
-  body:      string
   createdAt: datetime
   updatedAt: datetime
 ```

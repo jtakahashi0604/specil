@@ -12,6 +12,11 @@ SPEC_FILE=".specil/_spec-migration/$TIMESTAMP/spec.md"
 1. read `git diff` on `.specil/_spec/**/*.md`
 2. read existing spec and code
 3. trite about overview, plan and todo into SPEC_FILE
+  - You must read .specil/_context/_RULE.md
+  - You must write client and server test codes
+    - test codes
+      - unit
+      - e2e with Playwright
 ```
 
 ## Command - apply-code
