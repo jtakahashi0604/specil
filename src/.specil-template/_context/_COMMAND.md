@@ -37,12 +37,18 @@ review code changes
   - [ ] secure?
 ```
 
-## Coomand - deploy
+## Command - deploy
 
 ```text
 git commit
 git push
 gh pr create
+```
+
+## Command - deploy-notice-green
+
+```text
+Can you notify the action on GitHub is green?
 ```
 
 ## Command - launch
@@ -51,4 +57,10 @@ gh pr merge
 git checkout main
 git pull
 remove unnecessary branches
+```
+
+## Command - deploy-launch-green
+
+```text
+Can you notify the action on GitHub is green?
 ```
